@@ -1,24 +1,59 @@
-# 💫 About Me:
-💻Student at BFCAI<br>👨‍💻Programmer << C++>><br>Core team logistic@GDGoc Banha<br>🚀UI/UX Designer << Figma>><br>Graphic Designer | Content Creator
+[README (3).md](https://github.com/user-attachments/files/35148901/README.3.md)
+# Hi, I'm Mohamed Farid 👋
 
+### About Me
+- 💻 Student at the Faculty of Computers and Artificial Intelligence, Benha University (BFCAI)
+- 👨‍💻 Programmer | C++
+- 🚀 UI/UX Designer | Figma
+- 🎨 Graphic Designer & Content Creator
+- 🤝 Core Team Logistics Member at GDG on Campus Benha
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/b5aca0ad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-farid-856a01389?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+### Connect with Me
+<p align="left">
+  <a href="https://www.behance.net/b5aca0ad" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-farid-856a01389/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mofarid533-rgb&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mofarid533-rgb&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mofarid533-rgb&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white" alt="Adobe" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white" alt="Adobe InDesign" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=flat&logo=adobexd&logoColor=white" alt="Adobe XD" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mofarid533-rgb&show_icons=true&theme=shadow_green&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=mofarid533-rgb&theme=shadow_green&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofarid533-rgb&layout=compact&theme=shadow_green&hide_border=true" alt="Top Languages" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mofarid533-rgb&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+### Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
+</p>
+
+### Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mofarid533-rgb&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mofarid533-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mofarid533-rgb&style=flat&color=0e75b6" alt="Profile Views" />
+</p>
