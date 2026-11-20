@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/35148901/README.3.md)
 # Hi, I'm Mohamed Farid 👋
 
 ### About Me
